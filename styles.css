@@ -10,7 +10,7 @@ body {
 /* Header styles */
 header {
     background-color: #333;
-    color: #f;
+    color: #fff;
     padding: 20px;
     text-align: center;
 }
@@ -44,9 +44,11 @@ footer {
     color: #fff;
     padding: 20px;
     text-align: center;
-    margin: 0;
+    margin: 5;
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
 }
+
+
