@@ -3,14 +3,14 @@
 /* Body styles */
 body {
     font-family: Arial, sans-serif;
-    margin: 5;
+    margin: 0;
     padding: 0;
 }
 
 /* Header styles */
 header {
     background-color: #333;
-    color: #255255255;
+    color: #fff;
     padding: 20px;
     text-align: center;
 }
@@ -44,7 +44,7 @@ footer {
     color: #fff;
     padding: 20px;
     text-align: center;
-    margin: 5;
+    margin: 0;
     position: fixed;
     left: 0;
     bottom: 0;
