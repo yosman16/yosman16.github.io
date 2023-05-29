@@ -43,6 +43,7 @@ li:not(p) {
 /* Footer styles */
 footer {
     background-color: #333;
+    padding: 20px 10px; /* Adjust the padding as needed */
     color: #fff;
     padding: 20px;
     text-align: center;
